@@ -24,7 +24,6 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 - 🌱 Currently deepening: vector databases (Qdrant/pgvector) and agent observability (LangSmith)
 - 🤝 Open to: PFE internships, collaborations, and open-source contributions
 
-
 <br/>
 
 ## 🧰 Tech Stack
@@ -116,6 +115,14 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinebni&theme=radial" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=zinebni&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radical&hide_border=true"/>
+  <br/>
+  <img width="65%" src="https://streak-stats.demolab.com/?user=zinebni&theme=radical&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Thanks for stopping by — always happy to connect with fellow builders 🚀</sub>
 </div>
