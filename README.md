@@ -115,9 +115,7 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=zinebni&theme=radial&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinebni&show_icons=true&theme=radial&hide_border=true" />
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" />
 </div>
