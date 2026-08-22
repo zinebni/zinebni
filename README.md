@@ -116,6 +116,6 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinebni&theme=radial" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-activity-graph.vercel.app/graph?username=zinebni&theme=radial&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
