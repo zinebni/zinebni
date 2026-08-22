@@ -117,8 +117,6 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 <div align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=zinebni&show_icons=true&theme=radical&hide_border=true&hide_rank=true"/>
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radical&hide_border=true"/>
-  <br/>
-  <img width="65%" src="https://streak-stats.demolab.com/?user=zinebni&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
