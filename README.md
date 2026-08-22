@@ -43,15 +43,19 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **DevOps & Tools**
 
@@ -94,6 +98,15 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
       <p>Digitizes physical waiting lines for high-traffic services, with live position updates for users via real-time notifications.</p>
       <p><b>Stack:</b> Angular · Express.js · Socket.io · MongoDB</p>
       <a href="https://github.com/zinebni/smartQueue"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎓 UConnecte</h3>
+      <p><i>Private social network for a university community</i></p>
+      <p>A Facebook-style social platform built exclusively for Université Euromed de Fès — centralizing student, faculty, and staff life around a secure, campus-only network with posts, real-time messaging, and notifications.</p>
+      <p><b>Stack:</b> Laravel 10 · Laravel Breeze · Laravel Queues · Pusher (WebSocket) · Blade · Tailwind CSS · Alpine.js · MySQL</p>
+      <a href="https://github.com/zinebni/UConnecte"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
