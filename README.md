@@ -117,5 +117,7 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" />
-  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=zinebni&theme=react-dark&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zinebni&theme=radial&column=4&margin-w=15" alt="Zineb's Trophies" />
 </div>
