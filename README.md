@@ -54,7 +54,6 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinebni&show_icons=true&theme=radial&hide_border=true" alt="Zineb's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</div>
+![Zineb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinebni&show_icons=true&theme=radial&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radial&hide_border=true)
