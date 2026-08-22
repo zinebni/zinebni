@@ -23,7 +23,7 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 - 🔭 Currently building: RAG pipelines & multi-agent workflows
 - 🌱 Currently deepening: vector databases (Qdrant/pgvector) and agent observability (LangSmith)
 - 🤝 Open to: PFE internships, collaborations, and open-source contributions
-- 💬 Ask me about: RAG architectures, LangChain/LangGraph, or full-stack app design
+
 
 <br/>
 
