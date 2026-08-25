@@ -105,7 +105,7 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
       <p><i>Private social network for a university community</i></p>
       <p>A Facebook-style social platform built exclusively for Université Euromed de Fès — centralizing student, faculty, and staff life around a secure, campus-only network with posts, real-time messaging, and notifications.</p>
       <p><b>Stack:</b> Laravel 10 · Laravel Breeze · Laravel Queues · Pusher (WebSocket) · Blade · Tailwind CSS · Alpine.js · MySQL</p>
-      <a href="https://github.com/zinebni/UConnecte"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/zinebni/Uconnect"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
