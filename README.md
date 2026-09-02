@@ -28,13 +28,15 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 
 ## 🧰 Tech Stack
 
-**AI & LLM Engineering**
+**AI, Web3 & Mobile**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 **Frontend**
 
@@ -47,9 +49,10 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 
 **Backend & Databases**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,6 +88,38 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📱 BudgetMate Plus</h3>
+      <p><i>Native Android Personal Finance App</i></p>
+      <p>A clean multi-layered Android app targetting Android SDK 34. Features local persistence with Room DB, pre-populated default categories, reactive state flows, and dependency injection.</p>
+      <p><b>Stack:</b> Kotlin · Jetpack Compose · MVVM · Hilt · Room · Coroutines & Flow</p>
+      <a href="https://github.com/zinebni/BudgetMatePlus"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📍 NearbyMe</h3>
+      <p><i>Real-time Proximity Discovery Web App</i></p>
+      <p>An interactive Angular app fetching users from the RandomUser API, applying RxJS observables to filter and transform streams in real time, and computing geographical proximity using the Haversine formula.</p>
+      <p><b>Stack:</b> Angular · RxJS · RandomUser API · TypeScript</p>
+      <a href="https://github.com/zinebni/NearbyMe"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ VoyageConnect</h3>
+      <p><i>Pure Java EE Travel Agency Platform</i></p>
+      <p>A full-stack web application built in pure Java EE without Spring or `@Transactional`. Features strict MVC separation, custom Servlet filter security, and explicit manual JPA transaction management (`EntityTransaction`).</p>
+      <p><b>Stack:</b> Java EE · JPA / Hibernate · Servlet Filters · JSP · Bean Validation</p>
+      <a href="https://github.com/zinebni/VoyageConnect"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗳️ Decentralized Voting Contract</h3>
+      <p><i>Solidity Smart Contract for Secure Electronic Voting</i></p>
+      <p>A transparent Ethereum smart contract system where a Chairman adds candidates, each wallet address gets a single verifiable vote on-chain, and winner determination is immutably computed upon closing.</p>
+      <p><b>Stack:</b> Solidity · Ethereum · Remix IDE</p>
+      <a href="https://github.com/zinebni/solidity-voting-system"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🌸 Fleur & Atelier</h3>
       <p><i>Custom bouquet e-commerce platform</i></p>
       <p>Full e-commerce flow letting customers design custom flower bouquets, with secure payments, order management, and delivery tracking.</p>
@@ -111,5 +146,3 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 </table>
 
 <br/>
-
-
