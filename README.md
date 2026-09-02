@@ -92,7 +92,7 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
       <p><i>Native Android Personal Finance App</i></p>
       <p>A clean multi-layered Android app targetting Android SDK 34. Features local persistence with Room DB, pre-populated default categories, reactive state flows, and dependency injection.</p>
       <p><b>Stack:</b> Kotlin · Jetpack Compose · MVVM · Hilt · Room · Coroutines & Flow</p>
-      <a href="https://github.com/zinebni/BudgetMatePlus"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/zinebni/budgetMatePlus"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📍 NearbyMe</h3>
@@ -108,14 +108,14 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
       <p><i>Pure Java EE Travel Agency Platform</i></p>
       <p>A full-stack web application built in pure Java EE without Spring or `@Transactional`. Features strict MVC separation, custom Servlet filter security, and explicit manual JPA transaction management (`EntityTransaction`).</p>
       <p><b>Stack:</b> Java EE · JPA / Hibernate · Servlet Filters · JSP · Bean Validation</p>
-      <a href="https://github.com/zinebni/VoyageConnect"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/zinebni/voyageconnect"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🗳️ Decentralized Voting Contract</h3>
       <p><i>Solidity Smart Contract for Secure Electronic Voting</i></p>
       <p>A transparent Ethereum smart contract system where a Chairman adds candidates, each wallet address gets a single verifiable vote on-chain, and winner determination is immutably computed upon closing.</p>
       <p><b>Stack:</b> Solidity · Ethereum · Remix IDE</p>
-      <a href="https://github.com/zinebni/solidity-voting-system"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/zinebni/sys-vote"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
