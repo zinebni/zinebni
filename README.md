@@ -70,12 +70,12 @@ zineb:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zinebni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AC4D0&icon_color=8AC4D0&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AC4D0&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinebni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AC4D0&icon_color=8AC4D0&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AC4D0&text_color=c9d1d9"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zinebni&theme=tokyonight&hide_border=true&background=0D1117&ring=8AC4D0&fire=8AC4D0&currStreakLabel=8AC4D0"/>
+<img src="https://streak-stats.demolab.com/?user=zinebni&theme=tokyonight&hide_border=true&background=0D1117&ring=8AC4D0&fire=8AC4D0&currStreakLabel=8AC4D0"/>
 </div>
 
 <br/>
