@@ -112,15 +112,4 @@ I'm currently interning at **Smartovate Ltd**, building a cloud support assistan
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=zinebni&show_icons=true&theme=radical&hide_border=true&hide_rank=true"/>
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zinebni&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Thanks for stopping by — always happy to connect with fellow builders 🚀</sub>
-</div>
