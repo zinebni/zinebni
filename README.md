@@ -34,7 +34,7 @@ zineb:
   currently_deepening: "vector databases (Qdrant/pgvector) & agent observability (LangSmith)"
   open_to: "PFE internships, collaborations, open-source contributions"
   ask_me_about: "LangChain, LangGraph, Spring Boot, RAG architecture"
-  fun_fact: "I once built a chatbot before I finished the coffee that inspired it ☕"
+
 ```
 
 <br/>
