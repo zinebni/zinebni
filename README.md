@@ -22,9 +22,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year Software Engineering student **(M.Eng, expected 2027)** at **EIDIA — Euro-Mediterranean University of Fes (UEMF)**, Morocco, majoring in Full-Stack Development & Multimedia Systems.
+I'm a final-year Software Engineering student **(M.Eng, expected 2027)** at **EIDIA Euro-Mediterranean University of Fes (UEMF)**, Morocco, majoring in Full-Stack Development & Multimedia Systems.
 
-Over the past two years I've moved from building traditional web apps to specializing in **applied generative AI** — RAG pipelines, multi-agent orchestration, and LLM-powered products — while keeping strong full-stack fundamentals across **React, Spring Boot, and Node.js**.
+Over the past two years I've moved from building traditional web apps to specializing in **applied generative AI** RAG pipelines, multi-agent orchestration, and LLM-powered products while keeping strong full-stack fundamentals across **React, Spring Boot, and Node.js**.
 
 I'm currently interning at **Smartovate Ltd**, building a cloud support assistant on **Azure AI Foundry** (RAG + Azure OpenAI), and actively looking for my final-year **PFE internship** at the intersection of full-stack engineering and AI.
 
