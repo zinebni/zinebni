@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D5BBA,100:8AC4D0&amp;height=220&amp;section=header&amp;text=Hi%20there,%20I'm%20Zineb%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20(RAG%20%26%20Multi-Agent%20Systems)&amp;descAlignY=58&amp;descSize=18" width="100%"/>
-
 <a href="https://linkedin.com/in/zineb-bennani">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
@@ -11,23 +9,19 @@
 <a href="https://github.com/zinebni">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
-
 <br/><br/>
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=8AC4D0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+RAG+pipelines+%26+multi-agent+workflows;Turning+LLMs+into+real+products+%E2%9A%A1;React+%C2%B7+Spring+Boot+%C2%B7+LangChain+%C2%B7+Azure+AI;Open+to+PFE+internships+2027+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
-
 <br/>
-
 ## 👩‍💻 About Me
-
+ 
 I'm a final-year Software Engineering student **(M.Eng, expected 2027)** at **EIDIA — Euro-Mediterranean University of Fes (UEMF)**, Morocco, majoring in Full-Stack Development &amp; Multimedia Systems.
-
+ 
 Over the past two years I've moved from building traditional web apps to specializing in **applied generative AI** — RAG pipelines, multi-agent orchestration, and LLM-powered products — while keeping strong full-stack fundamentals across **React, Spring Boot, and Node.js**.
-
+ 
 I'm currently interning at **Smartovate Ltd**, building a cloud support assistant on **Azure AI Foundry** (RAG + Azure OpenAI), and actively looking for my final-year **PFE internship** at the intersection of full-stack engineering and AI.
-
+ 
 ```yaml
 zineb:
   currently_building: "RAG pipelines &amp; multi-agent workflows"
@@ -36,52 +30,41 @@ zineb:
   ask_me_about: "LangChain, LangGraph, Spring Boot, RAG architecture"
   fun_fact: "I once built a chatbot before I finished the coffee that inspired it ☕"
 ```
-
+ 
 <br/>
-
 ## 🧰 Tech Stack
-
+ 
 <div align="center">
-
 **AI &amp; Applied ML**
-
-<img src="https://skillicons.dev/icons?i=py" height="42"/>    
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" height="28"/>  
-<img src="https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge" height="28"/>  
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" height="28"/>  
+ 
+<img src="https://skillicons.dev/icons?i=py" height="42"/>    
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" height="28"/>  
+<img src="https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge" height="28"/>  
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" height="28"/>  
 <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" height="28"/>
-
+ 
 **Frontend**
-
+ 
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,tailwind" height="42"/>
-
 **Backend &amp; Databases**
-
+ 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,laravel,fastapi,postgres,mongodb,mysql" height="42"/>
-
 **Mobile, Web3 &amp; DevOps**
-
+ 
 <img src="https://skillicons.dev/icons?i=kotlin,solidity,docker,kubernetes,git" height="42"/>
-
 </div>
-
 <br/>
-
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zinebni&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8AC4D0&amp;icon_color=8AC4D0&amp;text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebni&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8AC4D0&amp;text_color=c9d1d9"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinebni&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8AC4D0&amp;fire=8AC4D0&amp;currStreakLabel=8AC4D0"/>
 </div>
-
 <br/>
-
 ## 🚀 Featured Projects
-
+ 
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -202,30 +185,24 @@ zineb:
     </td>
   </tr>
 </table>
-
 <br/>
-
 ## 🐍 Contribution Graph
-
+ 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 > To activate this animation, add the [`snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates the SVG above from your real contributions.
-
+ 
 <br/>
-
 ## 📫 Let's Connect
-
+ 
 <div align="center">
-
 I'm actively looking for my **2027 PFE internship** in Full-Stack / Applied AI — feel free to reach out!
-
+ 
 <a href="https://linkedin.com/in/zineb-bennani"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="mailto:zineb.bennanigabsi@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-
+ 
 <br/><br/>
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8AC4D0,100:6D5BBA&amp;height=100&amp;section=footer" width="100%"/>
-
 </div>
