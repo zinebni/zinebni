@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8AC4D0&height=220&section=header&text=Hi%20there,%20I'm%20Zineb%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20(RAG%20%26%20Multi-Agent%20Systems)&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8AC4D0&height=220&section=header&text=Hi%20there,%20I'm%20Zineb%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/zineb-bennani">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:zineb.bennanigabsi@gmail.com">
+<a href="https://mailto:zineb.bennanigabsi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/zinebni">
